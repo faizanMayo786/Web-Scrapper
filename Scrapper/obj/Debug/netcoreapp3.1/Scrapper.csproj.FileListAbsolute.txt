@@ -1,0 +1,16 @@
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.deps.json
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.runtimeconfig.json
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.runtimeconfig.dev.json
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\Scrapper.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.csproj.AssemblyReference.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.AssemblyInfoInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.AssemblyInfo.cs
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.csproj.CoreCompileInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.genruntimeconfig.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Scrapper\Scrapper\obj\Debug\netcoreapp3.1\Scrapper.csproj.CopyComplete

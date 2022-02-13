@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYugWxgKl8JaqRzgYv117oRI4/0Strk9RIkllO2WI/9tatu9oN+AiVP5pLWx/GhDB2SiEn0lH4BnfIvz/04uug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mayo\\Desktop\\Desktop\\OOP\\Final Projects\\Scrapper\\Scrapper\\Scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mayo\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
